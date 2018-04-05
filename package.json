@@ -1,0 +1,24 @@
+{
+  "name": "react-tabler",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muminoff/react-tabler.git"
+  },
+  "keywords": [
+    "tabler",
+    "react",
+    "react-tabler"
+  ],
+  "author": "Sardor Muminov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muminoff/react-tabler/issues"
+  },
+  "homepage": "https://github.com/muminoff/react-tabler#readme"
+}
